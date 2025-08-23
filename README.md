@@ -45,7 +45,7 @@
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
-  <img src="images/green" alt="green" width="400">
+  <img src="images/green.mp4" alt="green" width="400">
 
 
   
