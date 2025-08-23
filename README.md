@@ -3,7 +3,7 @@
 <body>
 
   <header>
-    <h1>shOrder 👟</h1>
+    <h1>Welcome to shOrder 👟</h1>
     <p>Elegant, Sustainable Shoe Storage</p>
   </header>
 
@@ -30,12 +30,9 @@
     </div>
   </section>
 
-  <section class="newsletter">
-    <h3> 🔔Subscribe to Our Newsletter </h3>
-    <form action="https://example.com/subscribe" method="POST">
-      <input type="email" name="email" placeholder="Enter your email" required>
-      <button type="submit">Subscribe</button>
-    </form>
+   <section class="newsletter">
+    <h3> 🔔 Subscribe to Our Newsletter </h3>
+    <a href="https://example.com/subscribe" target="_blank" class="button">Subscribe</a>
   </section>
 
   <section class="authenticity">
