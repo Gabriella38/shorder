@@ -3,14 +3,14 @@
 <body>
 
   <header>
-    <h1>Shorder</h1>
+    <h1>shOrder 👟</h1>
     <p>Elegant, Sustainable Shoe Storage</p>
   </header>
 
 <img src="images/ChatGPT Image Aug 23, 2025, 05_00_49 PM.png" alt="Shoes in Shorder box" width="400">
 
   <section class="hero">
-    <h2>Organize Your Shoes with Style</h2>
+    <h2>Organize Your Shoes with Style ✨</h2>
     <p>Discover our reusable wooden shoe boxes with transparent recycled acrylic fronts – designed for a tidy, elegant wardrobe while caring for the planet.</p>
     <a href="#features">Learn More</a>
   </section>
