@@ -3,6 +3,7 @@
 <body>
 
   <header>
+<h1>Your sneakers deserve a home, not a box.</h1>
     <h1>Welcome to shOrder 👟</h1>
     <p>Elegant, Sustainable Shoe Storage</p>
   </header>
