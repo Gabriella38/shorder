@@ -7,7 +7,7 @@
     <p>Elegant, Sustainable Shoe Storage</p>
   </header>
 
-<img src="images/shoes1.jpg" alt="Shoes in Shorder box" width="400">
+<img src="images/ChatGPT Image Aug 23, 2025, 05_00_49 PM.png" alt="Shoes in Shorder box" width="400">
 
   <section class="hero">
     <h2>Organize Your Shoes with Style</h2>
