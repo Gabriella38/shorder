@@ -21,7 +21,7 @@
       <p>Minimalist wooden boxes with a luxury feel, perfectly complementing your home decor.</p>
     </div>
     <div class="feature">
-      <h3>Sustainable Materials</h3>
+      <h3>♻️ Sustainable Materials 🌱</h3>
       <p>Crafted from thin wooden panels and recycled perspex, prioritizing environmental responsibility.</p>
     </div>
     <div class="feature">
