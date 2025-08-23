@@ -7,6 +7,8 @@
     <p>Elegant, Sustainable Shoe Storage</p>
   </header>
 
+<img src="images/shoes1.jpg" alt="Shoes in Shorder box" width="400">
+
   <section class="hero">
     <h2>Organize Your Shoes with Style</h2>
     <p>Discover our reusable wooden shoe boxes with transparent recycled acrylic fronts – designed for a tidy, elegant wardrobe while caring for the planet.</p>
