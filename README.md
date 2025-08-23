@@ -31,7 +31,7 @@
   </section>
 
   <section class="newsletter">
-    <h3>🔔Subscribe to Our Newsletter </h3>
+    <h3> 🔔Subscribe to Our Newsletter </h3>
     <form action="https://example.com/subscribe" method="POST">
       <input type="email" name="email" placeholder="Enter your email" required>
       <button type="submit">Subscribe</button>
@@ -39,7 +39,7 @@
   </section>
 
   <section class="authenticity">
-    <h3>✅Check Your Shoes' Authenticity</h3>
+    <h3> ✅Check Your Shoes' Authenticity</h3>
     <a href="https://example.com/authenticate" target="_blank">Verify Now</a>
   </section>
 
