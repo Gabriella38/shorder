@@ -46,10 +46,6 @@
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
-  <video width="400" autoplay loop muted>
-  <source src="images/WhatsApp Video 2025-08-23 at 18.54.09.mp4" type="video/mp4">
-</video>
-
 
   
   <footer>
