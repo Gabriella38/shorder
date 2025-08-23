@@ -45,6 +45,11 @@
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
+  <video width="400" autoplay loop muted>
+  <source src="images/green.mp4" type="video/mp4">
+</video>
+
+
   
   <footer>
     &copy; 2025 Shorder. All rights reserved. | Designed for sustainability and elegance.
