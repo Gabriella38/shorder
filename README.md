@@ -43,12 +43,14 @@
 
 
   <section class="authenticity">
-    <h3>Thank you for choosing us!! ❤️</h3>
+    <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
   <section class="gif">
     <video autoplay loop muted playsinline width="400" height="300">
-    <source src="images/green.mp4" type="video/mp4">
+      <source src="images/green.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </section>
   
   <footer>
