@@ -50,6 +50,10 @@
       <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/89cf359c-3600-4988-a05b-d2d16b2f9055" />
   </section>
 
+  <section>
+    
+  </section>
+
   <footer>
     &copy; 2025 Shorder. All rights reserved. | Designed for sustainability and elegance.
   </footer>
