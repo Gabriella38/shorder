@@ -42,7 +42,7 @@
   </section>
 
 
-  <section class="authenticity">
+  <section class="authenticityy">
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
