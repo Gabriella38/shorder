@@ -42,8 +42,8 @@
   </section>
 
 
-  <section class="authenticityy">
-    <h3>Thank you for choosing us! ❤️</h3>
+  <section class="authenticity">
+    <h3>Thank you for choosing us!! ❤️</h3>
   </section>
 
   <section class="gif">
