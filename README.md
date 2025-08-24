@@ -47,11 +47,7 @@
   </section>
 
   <section>
-      <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/89cf359c-3600-4988-a05b-d2d16b2f9055" />
-  </section>
-
-  <section>
-    
+    <img width="400" height="400" alt="image" src="images/green (2).gif" />
   </section>
 
   <footer>
