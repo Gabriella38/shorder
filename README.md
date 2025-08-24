@@ -46,10 +46,10 @@
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
-<section class="gif">
+  <section class="gif">
     <video autoplay loop muted playsinline width="400" height="300">
-    <source src="images/ChatGPT Image Aug 23, 2025, 05_00_49 PM.png" type="video/mp4">
-</section>
+    <source src="images/green.mp4" type="video/mp4">
+  </section>
   
   <footer>
     &copy; 2025 Shorder. All rights reserved. | Designed for sustainability and elegance.
