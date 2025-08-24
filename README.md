@@ -46,13 +46,10 @@
     <h3>Thank you for choosing us! ❤️</h3>
   </section>
 
-  <section class="gif">
-    <video autoplay loop muted playsinline width="400" height="300">
-      <source src="images/green.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+  <section>
+      <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/89cf359c-3600-4988-a05b-d2d16b2f9055" />
   </section>
-  
+
   <footer>
     &copy; 2025 Shorder. All rights reserved. | Designed for sustainability and elegance.
   </footer>
